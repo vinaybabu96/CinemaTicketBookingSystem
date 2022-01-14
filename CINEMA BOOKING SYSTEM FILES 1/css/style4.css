@@ -1,0 +1,85 @@
+*{
+		margin: 0;
+		padding: 0;
+		font-family: Century Gothic;
+}
+
+.content-table{
+	border-collapse: collapse;
+	margin: 25px;
+	font-size: 0.9em;
+	min-width: 400px;
+	border-radius: 5px 5px 0 0;
+	overflow: hidden;
+	box-shadow: 0 0 20px rgba(0,0,0,0.15);
+	}
+	
+.content-table thead tr {
+	background-color: #009879;
+	color: #ffffff;
+	text-align: left;
+	font-weight: bold;
+	
+}
+
+.content-table th,
+.content-table td{
+	padding: 12px 15px;
+}
+
+.content-table tbody tr{
+	border-bottom: 1px solid #dddddd;
+	
+}
+
+.content-table tbody tr  {
+	background-color: #f3f3f3;
+	
+	
+}
+.content-table tbody tr: last-of-type  {
+	background-bottom: 2px solid #009879;
+	
+	
+}
+	
+
+
+.booked{
+	position: absolute;
+	text-align: center;
+	top:40%;
+	left: 37%;
+}
+
+.booked2{
+	position: absolute;
+	text-align: center;
+	top:40%;
+	left: 33%;
+}
+
+
+.content-table {
+	
+	position: absolute;
+		top: 4%;
+		left: 35%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.new{
+	border-style: groove;
+	color: slateblue;
+	position: absolute;
+	top: 30%;
+	left: 41%;
+}
+
+
+.Home {
+	position: absolute;
+		top: 1%;
+		left: 90%;
+}

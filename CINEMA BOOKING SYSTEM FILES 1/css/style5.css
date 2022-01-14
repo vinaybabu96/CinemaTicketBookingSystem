@@ -1,0 +1,133 @@
+*{
+		margin: 0;
+		padding: 0;
+		font-family: Century Gothic;
+}
+
+.read{
+	position: absolute;
+	top: 40%;
+	left: 80%;
+}
+
+
+.register_form{
+	border-collapse: collapse;
+	margin: 25px;
+	font-size: 0.9em;
+	min-width: 400px;
+	border-radius: 5px 5px 0 0;
+	overflow: hidden;
+	box-shadow: 0 0 20px rgba(0,0,0,0.15);
+	}
+	
+
+.login_details{
+	position: absolute;
+	top: 10%;
+	left: 40%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+
+	
+.details{
+	
+	position: absolute;
+	top: 10%;
+	left: 40%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.register_form {
+	background-color: #00ced1;
+	position: absolute;
+		top: 20%;
+		left: 37%;
+	margin-left: auto;
+	margin-right: auto;
+		border-collapse: collapse;
+	margin: 25px;
+	font-size: 0.9em;
+
+	border-radius: 5px 5px 0 0;
+	overflow: hidden;
+	box-shadow: 0 0 20px rgba(0,0,0,0.15);
+}
+
+
+
+.login_form {
+	height: 300px;
+	width: 300px;
+	
+	background-color: 00ced1;
+	position: absolute;
+		top: 15%;
+		left: 38%;
+	margin-left: auto;
+	margin-right: auto;
+	border-collapse: collapse;
+	margin: 25px;
+	font-size: 0.9em;
+
+	border-radius: 5px 5px 0 0;
+	overflow: hidden;
+	box-shadow: 0 0 20px rgba(0,0,0,0.15);
+}
+
+.tab {
+	height: 250px;
+}
+.reviews{
+	height: 50px;
+}
+.regtab {
+	height: 350px;
+}
+.Home {
+	position: absolute;
+		top: 1%;
+		left: 90%;
+}
+
+.House {
+	position: absolute;
+		top: 1%;
+		left: 90%;
+}
+
+.reviews{
+	
+	position: absolute;
+		top: 20%;
+		left: 37%;
+	
+	box-shadow: 0 0 20px rgba(0,0,0,0.15);
+}
+
+.reviews_table{
+	background-color: #ffe4c4;
+	height: 300px;
+	width: 300px;
+	position: absolute;
+		top: 20%;
+		left: 37%;
+
+	box-shadow: 0 0 20px rgba(0,0,0,0.15);
+}
+
+.reviews2{
+	position: absolute;
+		top: 15%;
+		left: 37%;
+}
+
+
+
+
+
+
+

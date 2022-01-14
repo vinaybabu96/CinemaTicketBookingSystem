@@ -1,0 +1,33 @@
+.numbers{
+	border-style: groove;
+	color: slateblue;	
+	position: absolute;
+	top: 40%;
+	left: 37%;
+}
+
+
+
+.Queries{
+	text-align: center;
+	top: 40%;
+}
+.Home{
+	position: absolute;
+	top: 10%;
+	left: 90%;
+}
+
+.theme{
+	position: absolute;
+	color: tomato;
+	top: 30%;
+	left: 40%;
+}
+
+.theme2{
+	border-style: groove;
+	color: slateblue;
+	position: absolute;
+	top: 40%;
+}
